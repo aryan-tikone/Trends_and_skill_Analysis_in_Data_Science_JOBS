@@ -1,6 +1,5 @@
 # Trends_and_skill_Analysis_in_Data_Science_JOBS
 
-# 📊 Trends and Skill Analysis in Data Science Jobs 
 
 ## 🧠 Objective  This project analyzes global data science job postings to extract:
 - 🔍 In-demand technical skills
